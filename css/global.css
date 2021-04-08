@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-white: rgb(255, 255, 255);
+    --color-black: rgb(80, 80, 80);
+    --color-purple-light: rgb(189, 143, 233);
+    --color-purple-dark: rgb(99, 0, 165);
+}
