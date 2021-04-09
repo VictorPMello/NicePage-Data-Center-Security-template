@@ -8,5 +8,10 @@
     --color-white: rgb(255, 255, 255);
     --color-black: rgb(80, 80, 80);
     --color-purple-light: rgb(189, 143, 233);
-    --color-purple-dark: rgb(99, 0, 165);
+    --color-purple-middle: rgb(98, 68, 117);
+    --color-purple-dark: rgb(38, 9, 58);
+}
+
+body{
+    background-color: var(--color-purple-middle);
 }
